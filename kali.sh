@@ -20,3 +20,4 @@ cd $HOME
 bash .uns.sh
 echo -e "[*] STARTING >$red ziper "
 cd $HOME
+cd
