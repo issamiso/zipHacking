@@ -19,3 +19,4 @@ cd /bin;chmod +x ziper
 cd $HOME
 bash .uns.sh
 echo -e "[*] STARTING >$red ziper "
+cd $HOME
