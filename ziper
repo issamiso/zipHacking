@@ -1,1 +1,1 @@
-python3 .Creakzip.py
+cd /data/data/com.termux/files/usr/etc && python3 .Creakzip.py
