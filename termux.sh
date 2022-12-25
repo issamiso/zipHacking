@@ -6,9 +6,11 @@ pkg install python2 -y
 pkg install python3 -y
 pkg install pip -y
 pip install pyzipper
-mv .Creakzip.py $HOME
+mv .Creakzip.py /data/data/com.termux/files/usr/etc
+cd $HOME
 cd zipHacking
-mv .passwordiso.txt $HOME
+mv .passwordiso.txt /data/data/com.termux/files/usr/etc
+cd $HOME
 cd zipHacking
 cp .uns.sh $HOME
 cd zipHacking
